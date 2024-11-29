@@ -208,3 +208,4 @@ Emoji:
 :mask: 
 
 662115042 Rattikan Muangmoon :white_heart:
+662115021 Thanathorn Teekawong :sparkling_heart:  
